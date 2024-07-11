@@ -1,7 +1,7 @@
 # YouTube - Assistindo Vídeo
 
 <p align="center">
-  <img src="assets/images/videopage.PNG" alt="Logo do TouTube" width=600px>
+  <img src="assets/images/videopage.PNG" alt="Interface do YouTube" width=600px>
 </p>
 
 ## Descrição
@@ -14,7 +14,7 @@ Este projeto é uma página estática que simula a experiência de assistir a um
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/JosielJrr/clone-youtube.git
+   git clone https://github.com/JosielJrr/youtube-video-page.git
 2. Abra o arquivo index.html no seu navegador.
 
 ## Funcionalidades
