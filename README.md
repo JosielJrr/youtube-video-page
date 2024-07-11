@@ -1,7 +1,7 @@
 # YouTube - Assistindo Vídeo
 
 <p align="center">
-  <img src="assets/images/youtube 1.png" alt="Logo do TouTube" width=150px>
+  <img src="assets/images/videopage.PNG" alt="Logo do TouTube" width=600px>
 </p>
 
 ## Descrição
