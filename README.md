@@ -1,8 +1,8 @@
 # YouTube - Assistindo Vídeo
 
-<p align="center">
+<div align="center">
   <img src="assets/images/videopage.PNG" alt="Interface do YouTube" width=600px>
-</p>
+</div>
 
 ## Descrição
 Este projeto é uma página estática que simula a experiência de assistir a um vídeo no YouTube, destacando informações como título, descrição, ações do vídeo e vídeos relacionados.
