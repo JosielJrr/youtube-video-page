@@ -13,8 +13,9 @@ Este projeto é uma página estática que simula a experiência de assistir a um
 
 ## Instalação
 1. Clone o repositório:
-   ```bash
+   ```
    git clone https://github.com/JosielJrr/youtube-video-page.git
+   ```
 2. Abra o arquivo index.html no seu navegador.
 
 ## Funcionalidades
