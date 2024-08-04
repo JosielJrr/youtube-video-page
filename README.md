@@ -24,7 +24,7 @@ Este projeto é uma página estática que simula a experiência de assistir a um
 - Exibição de vídeos relacionados na barra lateral.
 
 ## Notas Adicionais 
-- Este projeto foi desenvolvido na Formação CSS Web Developer da Digital Innovation One.  
+- Este projeto foi desenvolvido como parte da Formação CSS Web Developer da [Digital Innovation One](https://www.dio.me/).
 - A página foi projetada para ser visualizada em resoluções de tela específicas e pode **não** se adaptar a diferentes tamanhos de tela ou dispositivos.
 
 
